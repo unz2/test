@@ -1,3 +1,2 @@
-print('안녕하세요')
-
-
+def hello(name):
+    print(f'hello {name}, git world')
